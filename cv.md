@@ -9,6 +9,7 @@ I am 20 years old. I am studying by correspondence to become a business analyst.
 # Skills
 - HTML;
 - CSS;
+- js;
 - C#;
 - C++.
 - Adobe Photoshop;
