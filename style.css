@@ -1,1 +1,89 @@
+.myPhoto {
+   height: 200px; 
+   width:200px;
+}
 
+.text_me {
+    height: 200px;
+    width: 500px;
+}
+
+.about_me{
+    position: absolute;
+    margin-left: 250px;
+    top: 50px;
+}
+
+.list{
+    max-width: 1440px;
+    
+    margin: 0 auto;
+    background-color: #ECECEC;
+        
+}
+
+.menu{
+    margin-left: 200px;
+    
+}
+
+.nav{
+    list-style-type: none;
+    
+}
+
+.nav li{
+    display:inline;
+    margin-right: 20px;
+}
+
+.name{
+    border-bottom: 1px solid black;
+}
+
+.inf_p2{
+    position: absolute;
+    margin-left: 670px;
+    top: 290px;
+    width: 400px;
+    background-color: #77A6F7;
+    margin-right: 170px;
+    padding: 1%;
+   
+}
+
+.inf{
+    border-bottom: 1px solid black;
+}
+
+.inf_p1{
+    width: 400px;
+    margin-left: 170px;
+    margin-right: 170px;
+    background-color: #FFCCBC;
+    padding: 1%;
+    margin-top: 10px;
+}
+
+.topinf{
+    margin-left: 170px;
+    margin-right: 170px;
+    background-color: #D3E3FC;
+    padding: 1%;
+}
+
+.logo{
+    width: 60px;
+    height: 60px;
+}
+
+.bottom_inf{
+    padding-left: 170px;
+    padding-right: 170px;
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+    margin-top: 300px;
+    background-color: lightgrey;
+    
+}
